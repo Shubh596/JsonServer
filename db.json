@@ -5,5 +5,14 @@
     "Data": [
       { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 }
     ],
+    "Data1": [
+        { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 }
+      ],
+      "Data2": [
+        { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 }
+      ],
+      "Data3": [
+        { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 }
+      ],
     "profile": { "name": "typicode" }
   }
