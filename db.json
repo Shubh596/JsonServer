@@ -3,16 +3,31 @@
       { "id": 1, "title": "json-server", "author": "typicode" }
     ],
     "Data": [
+      { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 },
+      { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 },
+      { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 },
+      { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 },
+      { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 },
       { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 }
     ],
-    "Data1": [
-        { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 }
-      ],
-      "Data2": [
-        { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 }
-      ],
-      "Data3": [
-        { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 }
-      ],
-    "profile": { "name": "typicode" }
+    "cars": [
+        {
+          "id": 1,
+          "brand": "Tata",
+          "year": 2019,
+                "type":"Manual",
+          "kms": 10000,
+          "Description": "Tata Altroz with all original documents",
+          "Price": 500000
+        },
+        {
+          "id": 2,
+          "brand": "Tata",
+                "type":"AMT",
+          "year": 2017,
+          "kms": 8000,
+          "Description": "Tata Nexon with all original documents",
+          "Price": 800000
+        }
+      ]
   }
