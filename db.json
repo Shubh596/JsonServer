@@ -2,7 +2,7 @@
   "dogs": [
     {
       "id": 1,
-      "name": "Cherry",
+      "name": "Dodo",
       "age": 2,
       "place": "Visakhapatnam",
       "gender": "Male"
@@ -13,6 +13,27 @@
       "age": 3,
       "place": "Banglore",
       "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Lolo",
+      "age": 7,
+      "place": "Delhi",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "name": "Sheru",
+      "age": 5,
+      "place": "Lucknow",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "name": "lallu",
+      "age": 6,
+      "place": "Jaipur",
+      "gender": "Male"
     }
   ]
 }
