@@ -1,55 +1,18 @@
 {
-    
-    "Data": [
-      { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 },
-      { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 },
-      { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 },
-      { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 },
-      { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 },
-      { "id": 1, "Name": "Shubham Pandey", "Mail": "shubham@gmail.com", "Mobil": 123456789 }
-    ],
-    "cars": [
-        {
-          "id": 1,
-          "brand": "Tata",
-          "year": 2019,
-                "type":"Manual",
-          "kms": 10000,
-          "Description": "Tata Altroz with all original documents",
-          "Price": 800000
-        },
-        {
-          "id": 2,
-          "brand": "Toyota",
-                "type":"AMT",
-          "year": 2017,
-          "kms": 8000,
-          "Description": "Toyota Fortuner with all original documents",
-          "Price": 3800000
-        },{
-            "id": 3,
-            "brand": "Maruti Suzuki",
-                  "type":"Manual",
-            "year": 2017,
-            "kms": 5600,
-            "Description": "Maruti Suzuki Swift Desire with all original documents",
-            "Price": 900000
-          },{
-            "id": 4,
-            "brand": "Kia",
-                  "type":"AMT",
-            "year": 2021,
-            "kms": 1200,
-            "Description": "Kia Seltos with all original documents",
-            "Price": 1500000
-          },{
-            "id": 5,
-            "brand": "Mahindra",
-                  "type":"AMT",
-            "year": 2021,
-            "kms": 1000,
-            "Description": "Mahindra Scorpio with all original documents",
-            "Price": 1800000
-          }
-      ]
-  }
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    }
+  ]
+}
