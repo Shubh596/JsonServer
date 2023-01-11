@@ -1,3 +1,3 @@
 # JsonServer
 *
-https://clear-train-pig.cyclic.app/
+* https://clear-train-pig.cyclic.app/
